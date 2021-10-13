@@ -9,6 +9,9 @@
 ## Podcast
 - [[Пятиминутка React]](https://www.youtube.com/channel/UCtcMCp5GwNdQuloP4v5slfw)
 
+## Courses
+- [[Основы программирования. Software Engineering lectures with JavaScript and Node.js by Metarhia and NodeUA community of NodeJS developers in Ukraine]](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
+
 ## Clean code
 - [[Install Prettier in VS Code]](https://www.youtube.com/watch?v=Gmz27agvLYg)
 
