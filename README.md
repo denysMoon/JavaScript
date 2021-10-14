@@ -1,5 +1,8 @@
 # Info
 
+## Redux
+- [[Thunks in Redux: The Basics]](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
+
 ## GitHub
 - [[README images in Github]](https://www.youtube.com/watch?v=nvPOUdz5PL4)
 
@@ -14,4 +17,3 @@
 
 ## Clean code
 - [[Install Prettier in VS Code]](https://www.youtube.com/watch?v=Gmz27agvLYg)
-
