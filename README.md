@@ -6,9 +6,8 @@
 ## Functions
 - [[JavaScript: What Are Pure Functions And Why Use Them?] Medium ](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
 
-##
+## Style
 - [[Артем Арутюнн с докладом о styled-components] Youtube ](https://www.youtube.com/watch?v=eOBz3_mQwo8)
-https://www.youtube.com/watch?v=eOBz3_mQwo8
 
 ## GitHub
 - [[README images in Github] Youtube ](https://www.youtube.com/watch?v=nvPOUdz5PL4)
