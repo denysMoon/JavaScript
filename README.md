@@ -14,7 +14,7 @@
 
 ## Style
 
-- [[Артем Арутюнн с докладом о styled-components] Youtube ](https://www.youtube.com/watch?v=eOBz3_mQwo8)
+- [[Артем Арутюнан с докладом о styled-components] Youtube ](https://www.youtube.com/watch?v=eOBz3_mQwo8)
 
 ## GitHub
 
