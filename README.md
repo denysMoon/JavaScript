@@ -11,6 +11,7 @@
 ## Functions
 
 - [[JavaScript: What Are Pure Functions And Why Use Them?] Medium ](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
+- [[ Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript] Youtube ](https://www.youtube.com/watch?v=pn5myCmpV2U&t=3881s)
 
 ## Style
 
