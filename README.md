@@ -13,6 +13,11 @@
 - [[JavaScript: What Are Pure Functions And Why Use Them?] Medium ](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
 - [[ Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript] Youtube ](https://www.youtube.com/watch?v=pn5myCmpV2U&t=3881s)
 
+## TypeScript
+- [[Adding TypeScript] Docs ](https://create-react-app.dev/docs/adding-typescript/)
+- [[TypeScript - Быстрый Курс за 70 минут [2020]] Youtube ](https://youtu.be/nyIpDs2DJ_c)
+- [[React JS + TypeScript. Введение в Типизацию (+ React Router DOM)]] Youtube ](https://youtu.be/OvLWWvjoi8s)
+
 ## Style
 
 - [[Артем Арутюнан с докладом о styled-components] Youtube ](https://www.youtube.com/watch?v=eOBz3_mQwo8)
