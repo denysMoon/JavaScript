@@ -16,7 +16,7 @@
 ## TypeScript
 - [[Adding TypeScript] Docs ](https://create-react-app.dev/docs/adding-typescript/)
 - [[TypeScript - Быстрый Курс за 70 минут [2020]] Youtube ](https://youtu.be/nyIpDs2DJ_c)
-- [[React JS + TypeScript. Введение в Типизацию (+ React Router DOM)]] Youtube ](https://youtu.be/OvLWWvjoi8s)
+- [[React JS + TypeScript. Введение в Типизацию (+ React Router DOM)] Youtube ](https://youtu.be/OvLWWvjoi8s)
 
 ## Style
 
