@@ -2,6 +2,7 @@
 
 ## Redux
 
+- [[Redux Toolkit для управления состоянием в React-приложении] Youtube ]https://youtu.be/C0fBnil_Im4)
 - [[Thunks in Redux: The Basics] Medium ](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
 
 ## Objects
